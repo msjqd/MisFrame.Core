@@ -1,0 +1,13 @@
+D:\Code\MisFrame\MisFrame.Core.IService\bin\Debug\netcoreapp3.1\MisFrame.Core.IService.deps.json
+D:\Code\MisFrame\MisFrame.Core.IService\bin\Debug\netcoreapp3.1\MisFrame.Core.IService.dll
+D:\Code\MisFrame\MisFrame.Core.IService\bin\Debug\netcoreapp3.1\MisFrame.Core.IService.pdb
+D:\Code\MisFrame\MisFrame.Core.IService\bin\Debug\netcoreapp3.1\MisFrame.Core.Model.dll
+D:\Code\MisFrame\MisFrame.Core.IService\bin\Debug\netcoreapp3.1\MisFrame.Core.Model.pdb
+D:\Code\MisFrame\MisFrame.Core.IService\obj\Debug\netcoreapp3.1\MisFrame.Core.IService.csproj.AssemblyReference.cache
+D:\Code\MisFrame\MisFrame.Core.IService\obj\Debug\netcoreapp3.1\MisFrame.Core.IService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\MisFrame\MisFrame.Core.IService\obj\Debug\netcoreapp3.1\MisFrame.Core.IService.AssemblyInfoInputs.cache
+D:\Code\MisFrame\MisFrame.Core.IService\obj\Debug\netcoreapp3.1\MisFrame.Core.IService.AssemblyInfo.cs
+D:\Code\MisFrame\MisFrame.Core.IService\obj\Debug\netcoreapp3.1\MisFrame.Core.IService.csproj.CoreCompileInputs.cache
+D:\Code\MisFrame\MisFrame.Core.IService\obj\Debug\netcoreapp3.1\MisFrame.Core.IService.csproj.CopyComplete
+D:\Code\MisFrame\MisFrame.Core.IService\obj\Debug\netcoreapp3.1\MisFrame.Core.IService.dll
+D:\Code\MisFrame\MisFrame.Core.IService\obj\Debug\netcoreapp3.1\MisFrame.Core.IService.pdb

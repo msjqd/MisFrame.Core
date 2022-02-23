@@ -4,4 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MisFrame.Core.IRepository\MisFrame.Core.IRepository.csproj" />
+    <ProjectReference Include="..\MisFrame.Core.IService\MisFrame.Core.IService.csproj" />
+    <ProjectReference Include="..\MisFrame.Core.Repository\MisFrame.Core.Repository.csproj" />
+  </ItemGroup>
+
 </Project>

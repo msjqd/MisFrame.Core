@@ -1,0 +1,15 @@
+D:\Code\MisFrame\MisFrame.Core.Repository\bin\Debug\netcoreapp3.1\MisFrame.Core.Repository.deps.json
+D:\Code\MisFrame\MisFrame.Core.Repository\bin\Debug\netcoreapp3.1\MisFrame.Core.Repository.dll
+D:\Code\MisFrame\MisFrame.Core.Repository\bin\Debug\netcoreapp3.1\MisFrame.Core.Repository.pdb
+D:\Code\MisFrame\MisFrame.Core.Repository\bin\Debug\netcoreapp3.1\MisFrame.Core.IRepository.dll
+D:\Code\MisFrame\MisFrame.Core.Repository\bin\Debug\netcoreapp3.1\MisFrame.Core.Model.dll
+D:\Code\MisFrame\MisFrame.Core.Repository\bin\Debug\netcoreapp3.1\MisFrame.Core.IRepository.pdb
+D:\Code\MisFrame\MisFrame.Core.Repository\bin\Debug\netcoreapp3.1\MisFrame.Core.Model.pdb
+D:\Code\MisFrame\MisFrame.Core.Repository\obj\Debug\netcoreapp3.1\MisFrame.Core.Repository.csproj.AssemblyReference.cache
+D:\Code\MisFrame\MisFrame.Core.Repository\obj\Debug\netcoreapp3.1\MisFrame.Core.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\MisFrame\MisFrame.Core.Repository\obj\Debug\netcoreapp3.1\MisFrame.Core.Repository.AssemblyInfoInputs.cache
+D:\Code\MisFrame\MisFrame.Core.Repository\obj\Debug\netcoreapp3.1\MisFrame.Core.Repository.AssemblyInfo.cs
+D:\Code\MisFrame\MisFrame.Core.Repository\obj\Debug\netcoreapp3.1\MisFrame.Core.Repository.csproj.CoreCompileInputs.cache
+D:\Code\MisFrame\MisFrame.Core.Repository\obj\Debug\netcoreapp3.1\MisFrame.Core.Repository.csproj.CopyComplete
+D:\Code\MisFrame\MisFrame.Core.Repository\obj\Debug\netcoreapp3.1\MisFrame.Core.Repository.dll
+D:\Code\MisFrame\MisFrame.Core.Repository\obj\Debug\netcoreapp3.1\MisFrame.Core.Repository.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MisFrame.Core.IService/1.0.0": {
+        "dependencies": {
+          "MisFrame.Core.Model": "1.0.0"
+        },
+        "runtime": {
+          "MisFrame.Core.IService.dll": {}
+        }
+      },
+      "MisFrame.Core.Model/1.0.0": {
+        "runtime": {
+          "MisFrame.Core.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MisFrame.Core.IService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MisFrame.Core.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
