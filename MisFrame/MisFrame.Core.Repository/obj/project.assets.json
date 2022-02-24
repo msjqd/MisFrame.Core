@@ -2254,6 +2254,9 @@
       "MisFrame.Core.Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "SqlSugarCore": "5.0.5.4"
+        },
         "compile": {
           "bin/placeholder/MisFrame.Core.Model.dll": {}
         },

@@ -13,3 +13,6 @@ D:\Code\MisFrame\MisFrame.Core.Repository\obj\Debug\netcoreapp3.1\MisFrame.Core.
 D:\Code\MisFrame\MisFrame.Core.Repository\obj\Debug\netcoreapp3.1\MisFrame.Core.Repository.csproj.CopyComplete
 D:\Code\MisFrame\MisFrame.Core.Repository\obj\Debug\netcoreapp3.1\MisFrame.Core.Repository.dll
 D:\Code\MisFrame\MisFrame.Core.Repository\obj\Debug\netcoreapp3.1\MisFrame.Core.Repository.pdb
+D:\Code\MisFrame\MisFrame.Core.WebApi\bin\Debug\netcoreapp3.1\MisFrame.Core.Repository.deps.json
+D:\Code\MisFrame\MisFrame.Core.WebApi\bin\Debug\netcoreapp3.1\MisFrame.Core.Repository.dll
+D:\Code\MisFrame\MisFrame.Core.WebApi\bin\Debug\netcoreapp3.1\MisFrame.Core.Repository.pdb

@@ -14,6 +14,9 @@ D:\Code\MisFrame\MisFrame.Core.Service\obj\Debug\netcoreapp3.1\MisFrame.Core.Ser
 D:\Code\MisFrame\MisFrame.Core.Service\obj\Debug\netcoreapp3.1\MisFrame.Core.Service.AssemblyInfoInputs.cache
 D:\Code\MisFrame\MisFrame.Core.Service\obj\Debug\netcoreapp3.1\MisFrame.Core.Service.AssemblyInfo.cs
 D:\Code\MisFrame\MisFrame.Core.Service\obj\Debug\netcoreapp3.1\MisFrame.Core.Service.csproj.CoreCompileInputs.cache
+D:\Code\MisFrame\MisFrame.Core.WebApi\bin\Debug\netcoreapp3.1\MisFrame.Core.Service.deps.json
+D:\Code\MisFrame\MisFrame.Core.WebApi\bin\Debug\netcoreapp3.1\MisFrame.Core.Service.dll
+D:\Code\MisFrame\MisFrame.Core.WebApi\bin\Debug\netcoreapp3.1\MisFrame.Core.Service.pdb
 D:\Code\MisFrame\MisFrame.Core.Service\obj\Debug\netcoreapp3.1\MisFrame.Core.Service.csproj.CopyComplete
 D:\Code\MisFrame\MisFrame.Core.Service\obj\Debug\netcoreapp3.1\MisFrame.Core.Service.dll
 D:\Code\MisFrame\MisFrame.Core.Service\obj\Debug\netcoreapp3.1\MisFrame.Core.Service.pdb

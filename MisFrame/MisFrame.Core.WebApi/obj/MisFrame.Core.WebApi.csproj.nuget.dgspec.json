@@ -4,68 +4,6 @@
     "D:\\Code\\MisFrame\\MisFrame.Core.WebApi\\MisFrame.Core.WebApi.csproj": {}
   },
   "projects": {
-    "D:\\Code\\MisFrame\\MisFrame.Core.IRepository\\MisFrame.Core.IRepository.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Code\\MisFrame\\MisFrame.Core.IRepository\\MisFrame.Core.IRepository.csproj",
-        "projectName": "MisFrame.Core.IRepository",
-        "projectPath": "D:\\Code\\MisFrame\\MisFrame.Core.IRepository\\MisFrame.Core.IRepository.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\MisFrame\\MisFrame.Core.IRepository\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
-            "projectReferences": {
-              "D:\\Code\\MisFrame\\MisFrame.Core.Model\\MisFrame.Core.Model.csproj": {
-                "projectPath": "D:\\Code\\MisFrame\\MisFrame.Core.Model\\MisFrame.Core.Model.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "D:\\Code\\MisFrame\\MisFrame.Core.IService\\MisFrame.Core.IService.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -167,142 +105,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Code\\MisFrame\\MisFrame.Core.Repository\\MisFrame.Core.Repository.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Code\\MisFrame\\MisFrame.Core.Repository\\MisFrame.Core.Repository.csproj",
-        "projectName": "MisFrame.Core.Repository",
-        "projectPath": "D:\\Code\\MisFrame\\MisFrame.Core.Repository\\MisFrame.Core.Repository.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\MisFrame\\MisFrame.Core.Repository\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
-            "projectReferences": {
-              "D:\\Code\\MisFrame\\MisFrame.Core.IRepository\\MisFrame.Core.IRepository.csproj": {
-                "projectPath": "D:\\Code\\MisFrame\\MisFrame.Core.IRepository\\MisFrame.Core.IRepository.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "SqlSugarCore": {
               "target": "Package",
               "version": "[5.0.5.4, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Code\\MisFrame\\MisFrame.Core.Service\\MisFrame.Core.Service.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Code\\MisFrame\\MisFrame.Core.Service\\MisFrame.Core.Service.csproj",
-        "projectName": "MisFrame.Core.Service",
-        "projectPath": "D:\\Code\\MisFrame\\MisFrame.Core.Service\\MisFrame.Core.Service.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\MisFrame\\MisFrame.Core.Service\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
-            "projectReferences": {
-              "D:\\Code\\MisFrame\\MisFrame.Core.IRepository\\MisFrame.Core.IRepository.csproj": {
-                "projectPath": "D:\\Code\\MisFrame\\MisFrame.Core.IRepository\\MisFrame.Core.IRepository.csproj"
-              },
-              "D:\\Code\\MisFrame\\MisFrame.Core.IService\\MisFrame.Core.IService.csproj": {
-                "projectPath": "D:\\Code\\MisFrame\\MisFrame.Core.IService\\MisFrame.Core.IService.csproj"
-              },
-              "D:\\Code\\MisFrame\\MisFrame.Core.Repository\\MisFrame.Core.Repository.csproj": {
-                "projectPath": "D:\\Code\\MisFrame\\MisFrame.Core.Repository\\MisFrame.Core.Repository.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -352,12 +160,6 @@
             "projectReferences": {
               "D:\\Code\\MisFrame\\MisFrame.Core.IService\\MisFrame.Core.IService.csproj": {
                 "projectPath": "D:\\Code\\MisFrame\\MisFrame.Core.IService\\MisFrame.Core.IService.csproj"
-              },
-              "D:\\Code\\MisFrame\\MisFrame.Core.Model\\MisFrame.Core.Model.csproj": {
-                "projectPath": "D:\\Code\\MisFrame\\MisFrame.Core.Model\\MisFrame.Core.Model.csproj"
-              },
-              "D:\\Code\\MisFrame\\MisFrame.Core.Service\\MisFrame.Core.Service.csproj": {
-                "projectPath": "D:\\Code\\MisFrame\\MisFrame.Core.Service\\MisFrame.Core.Service.csproj"
               }
             }
           }
@@ -372,6 +174,18 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.DotNet.PlatformAbstractions": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

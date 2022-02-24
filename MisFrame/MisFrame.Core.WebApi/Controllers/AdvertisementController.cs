@@ -2,7 +2,6 @@
 using Microsoft.AspNetCore.Mvc;
 using MisFrame.Core.IService;
 using MisFrame.Core.Model;
-using MisFrame.Core.Service;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,12 +13,17 @@ namespace MisFrame.Core.WebApi.Controllers
     [ApiController]
     public class AdvertisementController : ControllerBase
     {
+        IAdvertisementService service;
+        public AdvertisementController(IAdvertisementService service)
+        {
+            this.service = service;
+        }
 
         [HttpGet]
         public async Task<List<Advertisement>> Get(int id)
-        {
-            IAdvertisementService service = new AdvertisementService();
-            return await service.Query(d => d.Id == id);
+        {   
+           // IAdvertisementService service = new AdvertisementService();
+           return await service.Query(d => d.Id == id);
         }
     }
 }

@@ -1,6 +1,5 @@
 ﻿using MisFrame.Core.IRepository;
 using MisFrame.Core.IService;
-using MisFrame.Core.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
@@ -11,7 +10,7 @@ namespace MisFrame.Core.Service
 {
         public class BaseServices<TEntity> : IBaseServices<TEntity> where TEntity : class, new()
         {
-            public IBaseRepository<TEntity> baseDal = new BaseRepository<TEntity>();
+            public IBaseRepository<TEntity> baseDal { get; set; }
 
             public async Task<TEntity> QueryByID(object objId)
             {
