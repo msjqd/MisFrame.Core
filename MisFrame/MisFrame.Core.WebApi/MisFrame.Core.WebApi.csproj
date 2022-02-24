@@ -16,6 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MisFrame.Core.Common\MisFrame.Core.Common.csproj" />
     <ProjectReference Include="..\MisFrame.Core.IService\MisFrame.Core.IService.csproj" />
   </ItemGroup>
 

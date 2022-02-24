@@ -1518,6 +1518,9 @@
         }
       },
       "MisFrame.Core.Model/1.0.0": {
+        "dependencies": {
+          "SqlSugarCore": "5.0.5.4"
+        },
         "runtime": {
           "MisFrame.Core.Model.dll": {}
         }

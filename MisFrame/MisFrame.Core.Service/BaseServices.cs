@@ -248,6 +248,15 @@ namespace MisFrame.Core.Service
              intPageIndex = 0, intPageSize, strOrderByFileds);
             }
 
+        public TEntity QueryTest(object objId)
+        {
+            return baseDal.QueryTest(objId);
         }
+
+        public async Task QueryTest1()
+        {
+            await QueryByID(1);
+        }
+    }
 
     }

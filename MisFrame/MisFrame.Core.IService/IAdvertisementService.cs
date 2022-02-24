@@ -7,6 +7,5 @@ namespace MisFrame.Core.IService
 {
     public interface IAdvertisementService:IBaseServices<Advertisement>
     {
-
     }
 }

@@ -8,6 +8,8 @@ namespace MisFrame.Core.IRepository
 {
     public interface IBaseRepository<TEntity> where TEntity : class
     {
+        TEntity QueryTest(object objId);
+
         Task<TEntity> QueryByID(object objId);
         Task<TEntity> QueryByID(object objId, bool blnUseCache = false);
         Task<List<TEntity>> QueryByIDs(object[] lstIds);

@@ -8,6 +8,10 @@ namespace MisFrame.Core.IService
 {
     public interface IBaseServices<TEntity> where TEntity : class
     {
+        TEntity QueryTest(object objId);
+
+        Task QueryTest1();
+
         Task<TEntity> QueryByID(object objId);
         Task<TEntity> QueryByID(object objId, bool blnUseCache = false);
         Task<List<TEntity>> QueryByIDs(object[] lstIds);

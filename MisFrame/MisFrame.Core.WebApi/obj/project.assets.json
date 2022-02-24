@@ -2411,6 +2411,16 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
+      "MisFrame.Core.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MisFrame.Core.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MisFrame.Core.Common.dll": {}
+        }
+      },
       "MisFrame.Core.IService/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -8037,6 +8047,11 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
+    "MisFrame.Core.Common/1.0.0": {
+      "type": "project",
+      "path": "../MisFrame.Core.Common/MisFrame.Core.Common.csproj",
+      "msbuildProject": "../MisFrame.Core.Common/MisFrame.Core.Common.csproj"
+    },
     "MisFrame.Core.IService/1.0.0": {
       "type": "project",
       "path": "../MisFrame.Core.IService/MisFrame.Core.IService.csproj",
@@ -8053,6 +8068,7 @@
       "Autofac.Extensions.DependencyInjection >= 7.2.0",
       "Autofac.Extras.DynamicProxy >= 6.0.0",
       "Microsoft.DotNet.PlatformAbstractions >= 3.1.6",
+      "MisFrame.Core.Common >= 1.0.0",
       "MisFrame.Core.IService >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
@@ -8089,6 +8105,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "D:\\Code\\MisFrame\\MisFrame.Core.Common\\MisFrame.Core.Common.csproj": {
+              "projectPath": "D:\\Code\\MisFrame\\MisFrame.Core.Common\\MisFrame.Core.Common.csproj"
+            },
             "D:\\Code\\MisFrame\\MisFrame.Core.IService\\MisFrame.Core.IService.csproj": {
               "projectPath": "D:\\Code\\MisFrame\\MisFrame.Core.IService\\MisFrame.Core.IService.csproj"
             }

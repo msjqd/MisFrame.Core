@@ -1,0 +1,10 @@
+D:\Code\MisFrame\MisFrame.Core.Common\bin\Debug\netcoreapp3.1\MisFrame.Core.Common.deps.json
+D:\Code\MisFrame\MisFrame.Core.Common\bin\Debug\netcoreapp3.1\MisFrame.Core.Common.dll
+D:\Code\MisFrame\MisFrame.Core.Common\bin\Debug\netcoreapp3.1\MisFrame.Core.Common.pdb
+D:\Code\MisFrame\MisFrame.Core.Common\obj\Debug\netcoreapp3.1\MisFrame.Core.Common.csproj.AssemblyReference.cache
+D:\Code\MisFrame\MisFrame.Core.Common\obj\Debug\netcoreapp3.1\MisFrame.Core.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\MisFrame\MisFrame.Core.Common\obj\Debug\netcoreapp3.1\MisFrame.Core.Common.AssemblyInfoInputs.cache
+D:\Code\MisFrame\MisFrame.Core.Common\obj\Debug\netcoreapp3.1\MisFrame.Core.Common.AssemblyInfo.cs
+D:\Code\MisFrame\MisFrame.Core.Common\obj\Debug\netcoreapp3.1\MisFrame.Core.Common.csproj.CoreCompileInputs.cache
+D:\Code\MisFrame\MisFrame.Core.Common\obj\Debug\netcoreapp3.1\MisFrame.Core.Common.dll
+D:\Code\MisFrame\MisFrame.Core.Common\obj\Debug\netcoreapp3.1\MisFrame.Core.Common.pdb

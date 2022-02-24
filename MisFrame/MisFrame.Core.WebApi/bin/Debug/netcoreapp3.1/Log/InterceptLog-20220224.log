@@ -1,0 +1,12 @@
+20220224104737 当前执行方法：Query 参数是： d => (d.Id == value(MisFrame.Core.WebApi.Controllers.AdvertisementController+<>c__DisplayClass2_0).id) 
+被拦截方法执行完毕，返回结果：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[MisFrame.Core.Model.Advertisement],MisFrame.Core.Service.BaseServices`1+<Query>d__16[MisFrame.Core.Model.Advertisement]]
+20220224132546 当前执行方法：Query 参数是： d => (d.Id == value(MisFrame.Core.WebApi.Controllers.AdvertisementController+<>c__DisplayClass2_0).id) 
+被拦截方法执行完毕，返回结果：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[MisFrame.Core.Model.Advertisement],MisFrame.Core.Service.BaseServices`1+<Query>d__16[MisFrame.Core.Model.Advertisement]]
+20220224132707 当前执行方法：Query 参数是： d => (d.Id == value(MisFrame.Core.WebApi.Controllers.AdvertisementController+<>c__DisplayClass2_0).id) 
+被拦截方法执行完毕，返回结果：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[MisFrame.Core.Model.Advertisement],MisFrame.Core.Service.BaseServices`1+<Query>d__16[MisFrame.Core.Model.Advertisement]]
+20220224134401 当前执行方法：Query 参数是： d => (d.Id == value(MisFrame.Core.WebApi.Controllers.AdvertisementController+<>c__DisplayClass2_0).id) 
+被拦截方法执行完毕，返回结果：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[MisFrame.Core.Model.Advertisement],MisFrame.Core.Service.BaseServices`1+<Query>d__16[MisFrame.Core.Model.Advertisement]]
+20220224134431 当前执行方法：QueryTest 参数是： 1 
+被拦截方法执行完毕，返回结果：
+20220224142922 当前执行方法：Query 参数是： d => (d.Id == value(MisFrame.Core.WebApi.Controllers.AdvertisementController+<>c__DisplayClass2_0).id) 
+被拦截方法执行完毕，返回结果：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[MisFrame.Core.Model.Advertisement],MisFrame.Core.Service.BaseServices`1+<Query>d__16[MisFrame.Core.Model.Advertisement]]

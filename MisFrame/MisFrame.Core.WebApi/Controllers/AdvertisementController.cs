@@ -19,11 +19,24 @@ namespace MisFrame.Core.WebApi.Controllers
             this.service = service;
         }
 
-        [HttpGet]
+        [HttpGet("{id}")]
         public async Task<List<Advertisement>> Get(int id)
-        {   
-           // IAdvertisementService service = new AdvertisementService();
-           return await service.Query(d => d.Id == id);
+        {
+            // IAdvertisementService service = new AdvertisementService();
+            return await service.Query(d => d.Id == id);
         }
+
+        [HttpGet()]
+        public Advertisement Get()
+        {
+            return service.QueryTest(1);
+        }
+
+        [HttpGet("{id}/{y}")]
+        public async Task Get(int id, int y)
+        {
+            await service.QueryTest1();
+        }
+
     }
 }

@@ -316,9 +316,10 @@ namespace MisFrame.Core.Repository
             .ToPageList(intPageIndex, intPageSize));
         }
 
-
-
-
+        public TEntity QueryTest(object objId)
+        {
+            return db.Queryable<TEntity>().InSingle(objId);
+        }
     }
 
 
